@@ -2,8 +2,8 @@ const account = [
     { month: 'Spalis',
      income: 150 
     },
-    { month: 'Sausis'
-    , income: 200, 
+    { month: 'Sausis', 
+    income: 200, 
     expense: 50 
 },
     { month: 'Kovas', 
@@ -38,5 +38,8 @@ const account = [
     income: 450, 
     expense: 120 },
     { month: 'Gruodis', 
-    expense: 200 }
+    expense: 200 
+}
 ];
+
+export { account }
